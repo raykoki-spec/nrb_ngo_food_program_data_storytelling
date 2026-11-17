@@ -56,8 +56,7 @@ python corr.py
 
 ## Pricing note
 
-KES 85000 for data cleaning, three findings, three charts and a short written summary
-Messy records, more counties or extra questions cost more.
+KES 85000 for data cleaning, three findings, three charts and a short-written summary. Messy records, more counties or extra questions cost more.
 
 ## Stack
 
