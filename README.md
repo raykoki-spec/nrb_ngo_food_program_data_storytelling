@@ -8,7 +8,7 @@ A six-month nutrition program run by a Nairobi NGO across three counties (Kitui,
 
 ### 1. Kitui is where the program is working best
 
-![Weight gain by county](charts/best_performong_county.png)
+![Weight gain by county](charts/best_perfofmong_county.png)
 
 Participnts in Kitui county gained the most weight, ahead of Machakos and Laikipia. The ranking stays the same when adjusted for how long children were enrolled. Kitui also leads when comparing participants with similar attendance, so attendance alone does not explain its results. Something about how the program runs there is worth learning from.
 
