@@ -14,13 +14,13 @@ Participnts in Kitui county gained the most weight, ahead of Machakos and Laikip
 
 ### 2. Children who come to more sessions tend to gain more weight
 
-attendance_vs_gain.png
+![correlation](attendance_vs_gain.png)
 
 Children who attend a larger share of sessions tend to gain more. The link is real but modest: it appears in every county, and many other factors also matter. The data shows a link, not proof that attendance causes the gain.
 
 ### 3. The youngest participants are benefiting the most
 
-best_performing_agegroup.png
+![best](best_performing_agegroup.png)
 
 The 6-12 age group gained the most, followed by 13-18 and then 19-35. Attendance was similar across the three groups, so the youngest group is not gaining more simply because they came more often.
 
