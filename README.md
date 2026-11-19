@@ -33,7 +33,7 @@ pip install -r requirements.txt
 
 ## Usage
 
-Run the program from the project's folder where the attendance.csv file is saved. 
+Run the program from the project's folder where the nutrition_data.csv file is saved. 
 ```
 python corr.py
 ```
@@ -56,7 +56,7 @@ python corr.py
 
 ## Pricing note
 
-KES 85000 for data cleaning, three findings, three charts and a short-written summary. Messy records, more counties or extra questions cost more.
+KES 55000 for data cleaning, three findings, three charts and a short-written summary. Messy records, more counties or extra questions cost more.
 
 ## Stack
 
